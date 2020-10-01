@@ -1,5 +1,6 @@
 package constructors;
-package java.util.*;
+
+import java.util.*;
 
 class Test
 {
