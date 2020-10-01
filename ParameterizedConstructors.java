@@ -1,6 +1,6 @@
 package constructors;
 
-import java.util.Scanner;
+import java.util.*;
 
 class A{
 	int a,b;
